@@ -1,3 +1,6 @@
+/* Google Fonts Import */
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&display=swap');
+
 /* Asterisk wildcard selector to override default browser settings */
 * {
     padding: 0;
@@ -12,6 +15,8 @@ body {
     flex-direction: column;
     /* Generic website style */
     color: rgb(254, 254, 254);
+    font-family: "Amatic SC", sans-serif;
+    font-size: large;
 }
 
 /* Header */
