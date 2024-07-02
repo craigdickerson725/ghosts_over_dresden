@@ -27,6 +27,9 @@ header {
     width: 100%;
     z-index: 99;
     box-shadow: 0 2px 2px gray;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
 }
 
 header a {
@@ -64,6 +67,20 @@ nav {
     padding: 0 1rem;
     box-shadow: 0 2px 2px gray;
     display: none;
+    top: 100%;
+}
+
+/* Nav toggle */
+#nav-toggle:checked~nav {
+    display: block;
+}
+
+#nav-toggle {
+    display: none;
+}
+
+.nav-toggle-label {
+    
 }
 
 /* Main Content */
