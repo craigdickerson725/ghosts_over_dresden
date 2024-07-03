@@ -92,8 +92,19 @@ main {
 }
 
 /* Footer */
-footer {
-    background-color: rgb(66, 13, 116);
+#social-networks {
+    text-align: center;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+    background-color: rgb(167, 14, 14);
+}
+
+#social-networks i {
+    font-size: 160%;
+    padding: 5%;
+    color: rgb(255, 255, 255);
 }
 
 /* Media query for tablets and larger (768px and up) */
