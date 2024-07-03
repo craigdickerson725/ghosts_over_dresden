@@ -85,10 +85,16 @@ nav {
 
 /* Main Content */
 main {
-    background-color: rgb(52, 48, 48);
     /* Make main element take up any extra space to push footer down */
     flex: 1 0 auto;
     margin-top: 47px;
+}
+
+/* Hero section */
+#hero {
+    height: 813px;
+    width: 100%;
+    background: url("../images/DDmond2.jpg") no-repeat center center/cover;
 }
 
 /* Footer */
