@@ -132,7 +132,7 @@ main {
 /* Contact section */
 #contact {
     background: url("../images/vampire_apple_bite.jpg") no-repeat top center / cover;
-    height: 636px;
+    height: 872px;
     width: 100%;
 }
 
@@ -216,6 +216,15 @@ main {
     #cover-text {
         width: 500px;
         right: 50px;
+    }
+
+    #signup {
+        background-position: center;
+        position: relative;
+    }
+
+    #signup-form {
+        max-width: 400px;
     }
 }
 
