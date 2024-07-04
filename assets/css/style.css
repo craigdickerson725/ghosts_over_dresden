@@ -159,6 +159,7 @@ main {
     margin-top: 17px;
     border-radius: 1px;
     color: red;
+    background-color: white;
     font-size: 65%;
     border-color: red;
 }
