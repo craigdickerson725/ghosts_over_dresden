@@ -99,9 +99,9 @@ main {
 
 /* Hero section */
 #hero {
-    height: 632px;
+    height: 636px;
     width: 100%;
-    background: url("../images/DDmond2.jpg") no-repeat center center/cover;
+    background: url("../images/dresden_skyline.jpg") no-repeat center center/cover;
     position: relative;
 }
 
@@ -113,6 +113,19 @@ main {
     min-height: 200px;
     padding-top: 40px;
     padding: 10px;
+}
+
+#bio-image-bg {
+    background: url("../images/marble_archway.jpg") no-repeat top center / cover;
+    height: 100vw;
+    width: 100vw;
+}
+
+#bio-writeup {
+    background-color: black;
+    padding: 20px;
+    text-align: justify;
+    margin: 0;
 }
 
 /* Footer */
