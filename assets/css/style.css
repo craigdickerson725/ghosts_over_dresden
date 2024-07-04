@@ -136,8 +136,15 @@ main {
     width: 100%;
 }
 
-#contact:h2 {
-    text-align: right;
+#contact-form {
+    color: white;
+    background-color: rgb(from color r g b);
+    padding: 30px;
+}
+
+#contact-form>h2 {
+    color: white;
+    margin-bottom: 20px;
 }
 
 /* Footer */
