@@ -14,7 +14,7 @@ body {
     display: flex;
     flex-direction: column;
     /* Generic website style */
-    color: rgb(254, 254, 254);
+    color: white;
     font-family: "Amatic SC", sans-serif;
     font-size: larger;
 }
@@ -28,12 +28,12 @@ h1 {
 
 /* Header */
 header {
-    background-color: rgb(54, 50, 52);
+    background-color: black;
     padding: 0 1rem;
     position: fixed;
     width: 100%;
     z-index: 99;
-    box-shadow: 0 2px 2px gray;
+    box-shadow: 0 2px 2px black; 
     display: flex;
     justify-content: space-between;
     align-items: baseline;
@@ -62,17 +62,17 @@ h1, h2, h3 {
 }
 
 .active {
-    border-bottom: 1px solid rgb(254, 254, 254);
+    border-bottom: 1px solid black;
 }
 
 /* Navbar styles with dropdown toggle */
 nav {
     position: absolute;
-    background-color: rgb(54, 50, 52);
+    background-color: black;
     width: 100%;
     left: 0;
     padding: 0 1rem;
-    box-shadow: 0 2px 2px gray;
+    box-shadow: 0 2px 2px black; 
     display: none;
     top: 100%;
 }
@@ -99,13 +99,20 @@ main {
 
 /* Hero section */
 #hero {
-    height: 813px;
+    height: 632px;
     width: 100%;
     background: url("../images/DDmond2.jpg") no-repeat center center/cover;
+    position: relative;
 }
 
 #cover-text {
     font-size: medium;
+    position: absolute;
+    bottom: 30px;
+    width: 80%;
+    min-height: 200px;
+    padding-top: 40px;
+    padding: 10px;
 }
 
 /* Footer */
@@ -121,7 +128,7 @@ main {
 #social-networks i {
     font-size: 160%;
     padding: 5%;
-    color: rgb(255, 255, 255);
+    color: white;
 }
 
 /* Media query for tablets and larger (768px and up) */
@@ -157,11 +164,16 @@ main {
     main {
         margin-top: 79px;
     }
+
+    #cover-text {
+        width: 500px;
+        right: 50px;
+    }
 }
 
 /* Media query for laptops and desktops (992px and up) */
 @media screen and (min-width: 992px) {
     #menu a:hover {
-        border-bottom: 1px solid rgb(255, 255, 255);
+        border-bottom: 1px solid white;
     }
 }
