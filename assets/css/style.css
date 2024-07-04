@@ -137,16 +137,31 @@ main {
 }
 
 #contact-form {
-    color: white;
+    color: red;
     background-color: rgb(from color r g b);
     padding: 30px;
 }
 
 #contact-form>h2 {
-    color: white;
+    color: red;
     margin-bottom: 20px;
 }
 
+.text-input {
+    width: 100%;
+    height: 25px;
+    margin: 5px 0 20px 0;
+    border: 1px solid red;
+    padding: 0 5px;
+}
+
+.join-button {
+    margin-top: 17px;
+    border-radius: 1px;
+    color: red;
+    font-size: 65%;
+    border-color: red;
+}
 /* Footer */
 #social-networks {
     text-align: center;
