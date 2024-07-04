@@ -115,6 +115,7 @@ main {
     padding: 10px;
 }
 
+/* Bio section for Home page */
 #bio-image-bg {
     background: url("../images/marble_archway.jpg") no-repeat top center / cover;
     height: 100vw;
@@ -126,6 +127,17 @@ main {
     padding: 20px;
     text-align: justify;
     margin: 0;
+}
+
+/* Contact section */
+#contact {
+    background: url("../images/vampire_apple_bite.jpg") no-repeat top center / cover;
+    height: 636px;
+    width: 100%;
+}
+
+#contact:h2 {
+    text-align: right;
 }
 
 /* Footer */
