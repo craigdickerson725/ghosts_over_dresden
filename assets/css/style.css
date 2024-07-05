@@ -130,8 +130,13 @@ main {
 }
 
 /* Music section */
-#music {
-    
+#music img {
+    width: 100%;
+    line-height: 1em;
+}
+
+#releases {
+    line-height: 0;
 }
 
 /* Contact section */
