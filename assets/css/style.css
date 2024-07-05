@@ -129,6 +129,11 @@ main {
     margin: 0;
 }
 
+/* Music section */
+#music {
+    
+}
+
 /* Contact section */
 #contact {
     background: url("../images/vampire_apple_bite.jpg") no-repeat top center / cover;
@@ -164,13 +169,6 @@ main {
     background-color: white;
     font-size: 65%;
     border-color: red;
-}
-
-/* Music section */
-#music {
-    background: url("../images/lips_logo.jpg") no-repeat center center/cover;
-    height: 600px;
-    width: 100%;
 }
 
 /* Footer */
