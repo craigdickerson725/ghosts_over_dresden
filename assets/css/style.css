@@ -95,6 +95,7 @@ main {
     /* Make main element take up any extra space to push footer down */
     flex: 1 0 auto;
     margin-top: 47px;
+    background-color: black;
 }
 
 /* Hero section */
@@ -130,6 +131,13 @@ main {
 }
 
 /* Music section */
+
+#music > h2 {
+    text-align: center;
+    padding: 15px;
+    margin-top: 15px;
+}
+
 #music img {
     width: 100%;
     line-height: 1em;
@@ -192,6 +200,15 @@ main {
     color: white;
 }
 
+/* Media query for larger/landscape phones (576px and up) */
+@media screen and (min-width: 576px) {
+    /* Music section */
+    #releases {
+        column-count: 2;
+        column-gap: 0;
+    }
+}
+
 /* Media query for tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {
     /* Header */
@@ -231,6 +248,11 @@ main {
         right: 50px;
     }
 
+    /* Music section */
+    #releases {
+        column-count: 3;
+    }
+
     #signup {
         background-position: center;
         position: relative;
@@ -245,5 +267,11 @@ main {
 @media screen and (min-width: 992px) {
     #menu a:hover {
         border-bottom: 1px solid white;
+    }
+
+    /* Music section */
+    
+    #releases {
+        column-count: 4;
     }
 }
