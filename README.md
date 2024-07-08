@@ -17,3 +17,15 @@ source: [amiresponsive](https://ui.dev/amiresponsive?url=https://craigdickerson7
 I began the design with a mobile-first approach in mind. I started with the homepage, using the Code Institute's 'Love Running' walkthrough project as a basis for getting the ball rolling.  However, since this is a website for a musical project, it was important to incorporate the music into the website.  For that reason, I chose to add a 'Music' page rather than a 'Gallery' page, as well as creating links so that clicking on the artwork takes the user to the YouTube page for the release clicked.
 
 Of course, a band needs to keep a good relationship with their listeners, and be accessible to them.  For this reason, a Contact page was added with a signup form, so that the user can be notified anytime a new track, merch item, or live show date is released.  As most bands are currently making their announcements via social media platforms, the band and I did not find it necessary to expand the website, as they create the bulk of their multi-media content exclusively for their social media sites--which are linked in the footer of the webpage.
+
+### Colour Scheme
+
+Ghosts Over Dresden are a part of the 'goth' scene, so the color scheme was quite simple:  dark colors, with a black backgroud when applicable, and typically red or white text.  The photos/artwork was all created by professional artists who are a part of the band, and the colors they kept are typically dark, with mysterious images that appeal to fans of the gothic asthetic as well as the musical subcultures that are part of the goth scene.
+
+- `rgb (0, 0, 0)` used for backgrounds when applicable.
+- `rgb (255, 255, 255)` used for all home and music page text.
+- `rgb (255, 0, 0)` used for contact form text.
+
+### Typography
+
+In considering fonts, it was important for the band to have something that looked both 'hand-written' as well as dark but elegant at the same time.  In reviewing many different fonts on Google Fonts, it was decided that the Amatic SC font was the best choice.  Therefore, [Amatic-SC](https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&display=swap) was used for all headers and titles.
