@@ -118,13 +118,13 @@ main {
 }
 
 /* Bio section for Home page */
-#bio {
+/*#bio {
     position: relative;
     min-height: 75vh;
 }
 
 #bio-image-bg {
-    background: url("../images/marble_archway.jpg") no-repeat center left / cover;
+    background: url("../images/ghost_in_archway.jpg") no-repeat center left / cover;
     height: 100%;
     width: 100%;
     position: absolute;
@@ -138,7 +138,7 @@ main {
     position: absolute;
     bottom: 0;
     width: 100%;
-}
+}*/
 
 /* Music section */
 
@@ -215,11 +215,11 @@ footer {
 /* Media query for larger/landscape phones (576px and up) */
 @media screen and (min-width: 576px) {
     /* Bio section for homepage */
-    #bio-writeup {
+    /*#bio-writeup {
         bottom: 50px;
         right: 50px;
         width: 50%;
-    }
+    } */
 
     /* Music section */
     #releases {
