@@ -80,3 +80,12 @@ In considering fonts, it was important for the band to have something that looke
 ![screenshot](documentation/features/signup_form_with_info_incomplete.png)
 ![screenshot](documentation/features/signup_form_with_info_completed.png)
 ![screenshot](documentation/features/signup_form_submission_confirmation.png)
+
+### Future Features
+
+- ADD A NEWS PAGE FOR UPCOMING PROJECTS
+    - The band are working on a full-length album, as well as booking gigs and creating merchandise.  When these things are ready, they wish to add a new page for News, which would be providing info on all the merch, upcoming music releases, and live shows.
+- JUKEBOX ADDED TO MUSIC PAGE
+    - When more music becomes available, it would be a nifty addition to have a 'jukebox' style player added to the music page.  This would contain every available song, all in one convenient place, available at one click.
+- OPEN FORUM WHERE FANS CAN CHAT WITH THE BAND AND EACH OTHER
+    - As the following for the band grows, it would be a great feature to provide a space for the fans to leave messages to the band, and for the band to respond.  Also, fans from different geographical locations could also connect and form new friendships.
