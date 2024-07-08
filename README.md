@@ -114,3 +114,18 @@ In considering fonts, it was important for the band to have something that looke
 
 > [!NOTE]  
 > For all testing, please refer to the [TESTING.md](TESTING.md) file.
+
+## Deployment
+
+The site was deployed to GitHub Pages. The steps to deploy are as follows:
+
+- In the [GitHub repository](https://github.com/craigdickerson725/ghosts_over_dresden), navigate to the Settings tab 
+- From the source section drop-down menu, select the **Main** Branch, then click "Save".
+- The page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+
+The live link can be found [here](https://craigdickerson725.github.io/ghosts_over_dresden)
+
+### Local Deployment
+
+This project can be cloned or forked in order to make a local copy on your own system.
+
