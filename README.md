@@ -29,3 +29,18 @@ Ghosts Over Dresden are a part of the 'goth' scene, so the color scheme was quit
 ### Typography
 
 In considering fonts, it was important for the band to have something that looked both 'hand-written' as well as dark but elegant at the same time.  In reviewing many different fonts on Google Fonts, it was decided that the Amatic SC font was the best choice.  Therefore, [Amatic-SC](https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&display=swap) was used for all headers and titles.
+
+## User Stories
+
+### New Site Users
+
+- As a new site user, I would like to see a cool, catchy graphic, so that I can get a feel for the vibe of the band.
+- As a new site user, I would like to see a short bio, so that I can understand where the band comes from and what their goal is.
+- As a new site user, I would like to have a discography page that links to the band's releases, so that I can hear the music they are making.
+- As a new site user, I would like to have a contact page, so that I can connect with the band and receive news concerning the band as it happens.
+
+### Returning Site Users
+
+- As a returning site user, I would like to easily find the complete discography, so that I can listen to the music that I have not yet heard.
+- As a returning site user, I would like to easily find a way to contact the band, so that I can request live shows, merch, or anything that I feel should be made available to fans.
+- As a returning site user, I would like to have quick access to the various social media pages for the band, as well as streaming platforms, so that I can see what the band is up to more immediately (ie, daily social posts, etc).
