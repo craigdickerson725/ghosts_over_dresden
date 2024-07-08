@@ -162,3 +162,12 @@ You can fork this repository by using the following steps:
 
 There are no noticeable differences between the local and deployed page that I have found.
 
+### Content
+
+| Source | Location | Notes |
+| --- | --- | --- |
+| [Markdown Builder](https://tim.2bn.dev/markdown-builder) | README and TESTING | tool to help generate the Markdown files |
+| [Chris Beams](https://chris.beams.io/posts/git-commit) | version control | "How to Write a Git Commit Message" |
+| [Tim Nelson](https://tim.2bn.dev/) | code snippets | shared code snippet variations to adjust syles on Homepage and Contact form images |
+| [Code Institute](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LRFX101+5/courseware/e805068059af42af87681032aa64053f/8703311af8594e9d83c32a580cd97a14/) | Love Running Walkthrough Project | code for basic homepage, header, footer, and navbar structures, as well as for sign up form |
+| [ChatGPT](https://chatgpt.com/) | various code stylings | code for adding video links to images |
