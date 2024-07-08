@@ -35,7 +35,6 @@ In considering fonts, it was important for the band to have something that looke
 ### New Site Users
 
 - As a new site user, I would like to see a cool, catchy graphic, so that I can get a feel for the vibe of the band.
-- As a new site user, I would like to see a short bio, so that I can understand where the band comes from and what their goal is.
 - As a new site user, I would like to have a discography page that links to the band's releases, so that I can hear the music they are making.
 - As a new site user, I would like to have a contact page, so that I can connect with the band and receive news concerning the band as it happens.
 
