@@ -44,3 +44,39 @@ In considering fonts, it was important for the band to have something that looke
 - As a returning site user, I would like to easily find the complete discography, so that I can listen to the music that I have not yet heard.
 - As a returning site user, I would like to easily find a way to contact the band, so that I can request live shows, merch, or anything that I feel should be made available to fans.
 - As a returning site user, I would like to have quick access to the various social media pages for the band, as well as streaming platforms, so that I can see what the band is up to more immediately (ie, daily social posts, etc).
+
+## Features
+
+### Existing Features
+
+- **Interactive Navigation Bar**
+
+    - The Navigation Bar is set up to the upper right of the screen (opposite the header, which is set up on the right side) on large screens. There is a toggle option to show an underline beneath the page being highlighted by the mouse.
+
+    ![screenshot](documentation/features/navbar_large_screens.png)
+
+    -For mobile screens, the navbar is represented in the upper right corner of the screen by a candelabra when not activated.  When activated, the navigation menu drops down underneath the header.
+
+    ![screenshot](documentation/features/navbar_mobile_unclicked.png)
+    ![screenshot](documentation/features/navbar_mobile_dropdown.png)
+
+- **Footer which provides quick links to the most popular social media pages, as well as most popular streaming platforms**
+
+    - The footer appears at the bottom of each page and contains links to the most relevant and important social media/streaming platform pages of the band.  The links are interactive, and display the icons for Instagram, Spotify, Band Camp, and iMusic.  Clicking on the icons takes the user to the appropriate page.  For many users, this will be the most important feature of the page, as most fans in this time desire constant social media posts from bands to feel connected to them.
+
+![screenshot](documentation/features/footer.png)
+
+- **Music Page With Complete Discography which Connects to Each Release**
+
+    - The music page is simple, but effective.  It displays the cover art for each of the band's releases.  Touching (for mobile screens) or clicking (for laptops/desktops) the artwork takes the user to the Youtube site for the release, so the user can hear the music.  
+
+![screenshot](documentation/features/music_page_mobile.png)
+![screenshot](documentation/features/music_page_large_screens.png)
+
+-**Contact Page With Email Signup**
+
+  - The contact page provides a signup form, so that the user can connect with the band.  All fields are required, so the information should be filled out completely or a message will inform the user to complete the info.  Also, a confirmation is given when the information is correctly submitted.
+
+![screenshot](documentation/features/signup_form_with_info_incomplete.png)
+![screenshot](documentation/features/signup_form_with_info_completed.png)
+![screenshot](documentation/features/signup_form_submission_confirmation.png)
