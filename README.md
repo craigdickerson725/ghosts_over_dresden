@@ -162,6 +162,8 @@ You can fork this repository by using the following steps:
 
 There are no noticeable differences between the local and deployed page that I have found.
 
+## Credits
+
 ### Content
 
 | Source | Location | Notes |
@@ -171,3 +173,15 @@ There are no noticeable differences between the local and deployed page that I h
 | [Tim Nelson](https://tim.2bn.dev/) | code snippets | shared code snippet variations to adjust syles on Homepage and Contact form images |
 | [Code Institute](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LRFX101+5/courseware/e805068059af42af87681032aa64053f/8703311af8594e9d83c32a580cd97a14/) | Love Running Walkthrough Project | code for basic homepage, header, footer, and navbar structures, as well as for sign up form |
 | [ChatGPT](https://chatgpt.com/) | various code stylings | code for adding video links to images |
+
+### Media
+
+The artwork for the entire website was all created by the band's members, and media team.  The Homepage images are by Luisa Aelig.  All other images on the site were created by Bea Keller, Cindy Wagner, and Quinn Buyck.
+
+### Acknowledgements
+
+- I would like to thank my Code Institute mentor, [Tim Nelson](https://github.com/TravelTimN) for his support (ie encouragement as well as code snippets, and for the extremely helpful readme and testing markdown builders) throughout the development of this project, and for making time outside of normal hours to help me.
+- I would like to thank the [Code Institute](https://codeinstitute.net) tutor team for their assistance with troubleshooting and debugging some project issues.
+- I would like to thank the [Code Institute Slack community](https://code-institute-room.slack.com) for the moral support; it kept me going during periods of self doubt and imposter syndrome.
+- I would like to thank my wife Julia and daughter Serafina for their patience as I worked many hours to create this page.
+- Of course, I want to thank Bea Keller, Cindy Wagner, Luisa Aelig, and Quinn Buyck for creating all original artwork to use in the creation of this project.  
