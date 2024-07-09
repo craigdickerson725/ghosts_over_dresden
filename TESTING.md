@@ -103,3 +103,15 @@ I've tested my deployed project on multiple browsers to check for compatibility 
 | Chrome | ![screenshot](documentation/testing_screenshots/navbar_chrome.png) | ![screenshot](documentation/testing_screenshots/music_chrome.png) | ![screenshot](documentation/testing_screenshots/contact_chrome.png) | Works as expected |
 | Firefox | ![screenshot](documentation/testing_screenshots/navbar_firefox.png) | ![screenshot](documentation/testing_screenshots/music_firefox.png) | ![screenshot](documentation/testing_screenshots/contact_firefox.png) | Works as expected |
 | Edge | ![screenshot](documentation/testing_screenshots/navbar_edge.png) | ![screenshot](documentation/testing_screenshots/music_edge_link.png) | ![screenshot](documentation/testing_screenshots/contact_edge.png) | Works as expected |
+
+## Responsiveness
+
+I've tested my deployed project on multiple devices to check for responsiveness issues.
+
+| Device | Home | About | Contact | etc | Notes |
+| --- | --- | --- | --- | --- | --- |
+| Mobile (DevTools) | ![screenshot](documentation/testing_screenshots/responsiveness_testing/mobile_home.png) | ![screenshot](documentation/testing_screenshots/responsiveness_testing/mobile_music.png) | ![screenshot](documentation/testing_screenshots/responsiveness_testing/mobile_contact.png) | Works as expected |
+| Tablet (DevTools) | ![screenshot](documentation/testing_screenshots/responsiveness_testing/tablet_home.png) | ![screenshot](documentation/testing_screenshots/responsiveness_testing/tablet_music.png) | ![screenshot](documentation/testing_screenshots/responsiveness_testing/tablet_contact.png) | Works as expected |
+| Laptop (DevTools | ![screenshot](documentation/testing_screenshots/responsiveness_testing/laptop_home.png) | ![screenshot](documentation/testing_screenshots/responsiveness_testing/laptop_music.png) | ![screenshot](documentation/testing_screenshots/responsiveness_testing/laptop_contact.png) | Works as expected |
+| 4K Monitor (DevTools)| ![screenshot](documentation/testing_screenshots/responsiveness_testing/4k_home.png) | ![screenshot](documentation/testing_screenshots/responsiveness_testing/4k_music.png) | ![screenshot](documentation/testing_screenshots/responsiveness_testing/4k_contact.png) | Noticeable scaling issues |
+| iPhone 14 (DevTools| ![screenshot](documentation/testing_screenshots/responsiveness_testing/iphone14_home.png) | ![screenshot](documentation/testing_screenshots/responsiveness_testing/iphone14_music.png) | ![screenshot](documentation/testing_screenshots/responsiveness_testing/iphone14_contact.png) | Works as expected |
