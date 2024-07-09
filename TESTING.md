@@ -86,3 +86,10 @@ I have used the recommended [HTML W3C Validator](https://validator.w3.org) to va
 |  | index.html | ![screenshot](documentation/testing_screenshots/html_validation_music.png) | |
 |  | music.html | ![screenshot](documentation/testing_screenshots/html_validation_contact.png) | |
 
+### CSS
+
+I have used the recommended [CSS Jigsaw Validator](https://jigsaw.w3.org/css-validator) to validate all of my CSS files.
+
+| Directory | File | Screenshot | Notes |
+| --- | --- | --- | --- |
+| assets | style.css | ![screenshot](documentation/testing_screenshots/css_validation.png) | |
