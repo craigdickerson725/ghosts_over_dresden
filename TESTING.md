@@ -126,3 +126,13 @@ I've tested my deployed project using the Lighthouse Audit tool to check for any
 | Music | ![screenshot](documentation/testing_screenshots/lighthouse/mobile_music.png) | ![screenshot](documentation/testing_screenshots/lighthouse/desktop_music.png) | Some minor warnings |
 | Contact | ![screenshot](documentation/testing_screenshots/lighthouse/mobile_contact.png) | ![screenshot](documentation/testing_screenshots/lighthouse/desktop_contact.png) | Some minor warnings |
 
+## User Story Testing
+
+| User Story | Screenshot |
+| --- | --- |
+| As a new site user, I would like to see a cool, catchy graphic, so that I can get a feel for the vibe of the band. | ![screenshot](documentation/testing_screenshots/user_stories/cool_graphic.png) |
+| As a new site user, I would like to have a discography page that links to the band's releases, so that I can hear the music they are making. | ![screenshot](documentation/testing_screenshots/user_stories/discography.png) |
+| As a new site user, I would like to have a contact page, so that I can connect with the band and receive news concerning the band as it happens. | ![screenshot](documentation/testing_screenshots/user_stories/contact_form.png) |
+| As a returning site user, I would like to easily find the complete discography, so that I can listen to the music that I have not yet heard. | ![screenshot](documentation/testing_screenshots/user_stories/discography.png) |
+| As a returning site user, I would like to easily find a way to contact the band, so that I can request live shows, merch, or anything that I feel should be made available to fans. | ![screenshot](documentation/testing_screenshots/user_stories/contact_form.png) |
+| As a returning site user, I would like to have quick access to the various social media pages for the band, as well as streaming platforms, so that I can see what the band is up to more immediately (ie, daily social posts, etc). | ![screenshot](documentation/testing_screenshots/user_stories/social_access.png) |
