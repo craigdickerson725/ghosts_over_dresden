@@ -43,3 +43,14 @@ The Music page allows the user to see the complete discography for the band.  Ea
 ![screenshot](documentation/testing_screenshots/music_edge_link.png)
 ![screenshot](documentation/testing_screenshots/music_firefox.png)
 ![screenshot](documentation/testing_screenshots/music_firefox_link.png)
+
+### Contact Form
+
+The Contact Form on the Contact page has been tested across Chrome, Edge, and Firefox.  Each field is required, and attempting to submit incomplete fields provides the appropriate message to indicate to the user that the field must be properly filled out before the Submit function transmits the information.  A message is also sent to notify the user when the information has been successfully submitted.
+
+![screenshot](documentation/testing_screenshots/contact_chrome.png)
+![screenshot](documentation/testing_screenshots/contact_chrome_success.png)
+![screenshot](documentation/testing_screenshots/contact_edge.png)
+![screenshot](documentation/testing_screenshots/contact_edge_success.png)
+![screenshot](documentation/testing_screenshots/contact_firefox.png)
+![screenshot](documentation/testing_screenshots/contact_firefox_success.png)
