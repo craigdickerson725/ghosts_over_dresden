@@ -69,3 +69,20 @@ The Contact Form on the Contact page has been tested across Chrome, Edge, and Fi
 ![screenshot](documentation/testing_screenshots/mobile_test_02.png)
 ![screenshot](documentation/testing_screenshots/mobile_test_03.png)
 ![screenshot](documentation/testing_screenshots/mobile_test_04.png)
+
+- Regression Testing:  As this site was built step by step, each section that was added did not interfere (in any way noticeable to us) with any previous section's functionality.  
+
+- Documentation and Logs:  So far, throughout the testing of the site, the only issues came from sizing styles.  As far as features and their functions, there have not been any bugs detected.
+
+## Code Validation
+
+### HTML
+
+I have used the recommended [HTML W3C Validator](https://validator.w3.org) to validate all of my HTML files.
+
+| Directory | File | Screenshot | Notes |
+| --- | --- | --- | --- |
+|  | contact.html | ![screenshot](documentation/testing_screenshots/html_validation_index.png) | |
+|  | index.html | ![screenshot](documentation/testing_screenshots/html_validation_music.png) | |
+|  | music.html | ![screenshot](documentation/testing_screenshots/html_validation_contact.png) | |
+
