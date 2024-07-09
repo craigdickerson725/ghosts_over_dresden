@@ -32,3 +32,14 @@ The footer is designed simply to provide quick access to the most desired social
 ![screenshot](documentation/testing_screenshots/footer_edge_link.png)
 ![screenshot](documentation/testing_screenshots/footer_firefox.png)
 ![screenshot](documentation/testing_screenshots/footer_firefox_link.png)
+
+### Music
+
+The Music page allows the user to see the complete discography for the band.  Each release is represented by its corresponding artwork.  Clicking the artwork directs the user to the YouTube page for listening.  Each link works correctly and is properly labeled, and the images are all properly marked with alt text for screenreaders.  This has been tested in Chrome, Edge, and Firefox.
+
+![screenshot](documentation/testing_screenshots/music_chrome.png)
+![screenshot](documentation/testing_screenshots/music_chrome_link.png)
+![screenshot](documentation/testing_screenshots/music_edge.png)
+![screenshot](documentation/testing_screenshots/music_edge_link.png)
+![screenshot](documentation/testing_screenshots/music_firefox.png)
+![screenshot](documentation/testing_screenshots/music_firefox_link.png)
