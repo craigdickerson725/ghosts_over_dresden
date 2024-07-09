@@ -54,3 +54,18 @@ The Contact Form on the Contact page has been tested across Chrome, Edge, and Fi
 ![screenshot](documentation/testing_screenshots/contact_edge_success.png)
 ![screenshot](documentation/testing_screenshots/contact_firefox.png)
 ![screenshot](documentation/testing_screenshots/contact_firefox_success.png)
+
+## User Experience Testing:
+
+- Usability Testing: The band members themselves tested the site across their mobile devices and desktop/laptops for functionality.  Feedback regarding feature performance was all positive, as all features seem to work without error (as demonstrated above).  However, late in the development stages, they requested that the image used for the bio section to be removed, as it was a photo, and seemed to break away from the rest of the color scheme of the all original artwork.  It was decided that the Bio text would simply be under the hero image to make the homepage look neater, and more in line with the rest of the artwork on the other pages.
+
+## Compatibility Testing:
+
+- Browser Compatibility: Testing on Chrome, Edge, and Firefox has been demonstrated in the screenshots for each tested section above.
+
+- Device Compatibility: Aside from our laptop testing (demonstrated in the screenshots in the previous sections), we also tested the site on our iPhones.
+
+![screenshot](documentation/testing_screenshots/mobile_test_01.png)
+![screenshot](documentation/testing_screenshots/mobile_test_02.png)
+![screenshot](documentation/testing_screenshots/mobile_test_03.png)
+![screenshot](documentation/testing_screenshots/mobile_test_04.png)
