@@ -115,3 +115,14 @@ I've tested my deployed project on multiple devices to check for responsiveness 
 | Laptop (DevTools | ![screenshot](documentation/testing_screenshots/responsiveness_testing/laptop_home.png) | ![screenshot](documentation/testing_screenshots/responsiveness_testing/laptop_music.png) | ![screenshot](documentation/testing_screenshots/responsiveness_testing/laptop_contact.png) | Works as expected |
 | 4K Monitor (DevTools)| ![screenshot](documentation/testing_screenshots/responsiveness_testing/4k_home.png) | ![screenshot](documentation/testing_screenshots/responsiveness_testing/4k_music.png) | ![screenshot](documentation/testing_screenshots/responsiveness_testing/4k_contact.png) | Noticeable scaling issues |
 | iPhone 14 (DevTools| ![screenshot](documentation/testing_screenshots/responsiveness_testing/iphone14_home.png) | ![screenshot](documentation/testing_screenshots/responsiveness_testing/iphone14_music.png) | ![screenshot](documentation/testing_screenshots/responsiveness_testing/iphone14_contact.png) | Works as expected |
+
+## Lighthouse Audit
+
+I've tested my deployed project using the Lighthouse Audit tool to check for any major issues.
+
+| Page | Mobile | Desktop | Notes |
+| --- | --- | --- | --- |
+| Home | ![screenshot](documentation/testing_screenshots/lighthouse/mobile_home.png) | ![screenshot](documentation/testing_screenshots/lighthouse/desktop_home.png) | Some minor warnings |
+| Music | ![screenshot](documentation/testing_screenshots/lighthouse/mobile_music.png) | ![screenshot](documentation/testing_screenshots/lighthouse/desktop_music.png) | Some minor warnings |
+| Contact | ![screenshot](documentation/testing_screenshots/lighthouse/mobile_contact.png) | ![screenshot](documentation/testing_screenshots/lighthouse/desktop_contact.png) | Some minor warnings |
+
