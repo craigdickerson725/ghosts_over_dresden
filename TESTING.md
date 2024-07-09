@@ -136,3 +136,16 @@ I've tested my deployed project using the Lighthouse Audit tool to check for any
 | As a returning site user, I would like to easily find the complete discography, so that I can listen to the music that I have not yet heard. | ![screenshot](documentation/testing_screenshots/user_stories/discography.png) |
 | As a returning site user, I would like to easily find a way to contact the band, so that I can request live shows, merch, or anything that I feel should be made available to fans. | ![screenshot](documentation/testing_screenshots/user_stories/contact_form.png) |
 | As a returning site user, I would like to have quick access to the various social media pages for the band, as well as streaming platforms, so that I can see what the band is up to more immediately (ie, daily social posts, etc). | ![screenshot](documentation/testing_screenshots/user_stories/social_access.png) |
+
+## Bugs
+
+As far as functionality of the features is concerned, we have found that everything works as expected.  This includes the interactive header and footer, as well as the links to the album art and the interactive contact form.  
+
+However, there were warnings from the Lighthouse audits that show that the performance of the music page would be better if the layout shifts were improved.  The sizing of the images was a bit tricky, considering their size, and the odd number of them made it difficult to line them up any other way, therefore it remains unchanged.  As new releases come in the future, this will be improved.
+
+Also worth noting is a scaling issue when using a 4k monitor.  We did not have access to a 4k monitor, so we tested it using DevTools.  The first time we did this in DevTools, there was a rather large space on the bottom of the screen.  We did not photo it, as we assumed it would happen again and we would be able to screenshot it if it remained consistent.  However, as we ran the 4k view in DevTools afterward, it displayed as it should (which is documented in the responsiveness section screenshot).
+
+## Unfixed Bugs
+
+> [!NOTE]  
+> There are no remaining bugs that I am aware of.
