@@ -8,7 +8,7 @@ Welcome to the Ghosts Over Dresden Band Website!  The goal of this website is to
 
 The wish of the band was to use all original images (taken by band members and friends of the band alike) to draw the interest of those who are checking out the band for the first time.  Because the music appeals to the darkwave/post-punk genres, the style is purposely dark with a goth asthetic. 
 
-![screenshot](documentation/mockup_screenshot.png.png)
+![screenshot](documentation/mockup_screenshot.png)
 
 source: [amiresponsive](https://ui.dev/amiresponsive?url=https://craigdickerson725.github.io/ghosts_over_dresden)
 
@@ -179,7 +179,7 @@ The artwork for the entire website was all created by the band's members, and me
 
 ### Acknowledgements
 
-- I would like to thank my Code Institute mentor, [Tim Nelson](https://github.com/TravelTimN) for his support (ie encouragement as well as code snippets, and for the extremely helpful readme and testing markdown builders) throughout the development of this project, and for making time outside of normal hours to help me.
+- I would like to thank my Code Institute mentor, [Tim Nelson](https://github.com/TravelTimN) for his support (ie encouragement as well as code snippets, and for the extremely helpful readme and testing markdown builders) throughout the development of this project, and for making time outside of normal hours to help me...without him, this would not have been possible.
 - I would like to thank the [Code Institute](https://codeinstitute.net) tutor team for their assistance with troubleshooting and debugging some project issues.
 - I would like to thank the [Code Institute Slack community](https://code-institute-room.slack.com) for the moral support; it kept me going during periods of self doubt and imposter syndrome.
 - I would like to thank my wife Julia and daughter Serafina for their patience as I worked many hours to create this page.
