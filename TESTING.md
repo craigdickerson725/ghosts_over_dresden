@@ -93,3 +93,13 @@ I have used the recommended [CSS Jigsaw Validator](https://jigsaw.w3.org/css-val
 | Directory | File | Screenshot | Notes |
 | --- | --- | --- | --- |
 | assets | style.css | ![screenshot](documentation/testing_screenshots/css_validation.png) | |
+
+## Browser Compatibility
+
+I've tested my deployed project on multiple browsers to check for compatibility issues.
+
+| Browser | Home | About | Contact | etc | Notes |
+| --- | --- | --- | --- | --- | --- |
+| Chrome | ![screenshot](documentation/testing_screenshots/navbar_chrome.png) | ![screenshot](documentation/testing_screenshots/music_chrome.png) | ![screenshot](documentation/testing_screenshots/contact_chrome.png) | Works as expected |
+| Firefox | ![screenshot](documentation/testing_screenshots/navbar_firefox.png) | ![screenshot](documentation/testing_screenshots/music_firefox.png) | ![screenshot](documentation/testing_screenshots/contact_firefox.png) | Works as expected |
+| Edge | ![screenshot](documentation/testing_screenshots/navbar_edge.png) | ![screenshot](documentation/testing_screenshots/music_edge_link.png) | ![screenshot](documentation/testing_screenshots/contact_edge.png) | Works as expected |
